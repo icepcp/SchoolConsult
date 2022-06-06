@@ -16,6 +16,12 @@
         <loc>/english-accept.html</loc>
     </url>
     <url>
+        <loc>/forgotpass.html</loc>
+    </url>
+    <url>
+        <loc>/forgotpasssent.html</loc>
+    </url>
+    <url>
         <loc>/geo-reject.html</loc>
     </url>
     <url>
