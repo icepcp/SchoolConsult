@@ -1,4 +1,5 @@
 # SchoolConsult
+## 📦 This repo has been archived
 **A website for all your educational consultation needs!**
 
 [Link to website](https://schoolconsult.bss.design/)
